@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./OSKA.html", // Pastikan file HTML Anda disertakan
+    "./index.html", // Pastikan file HTML Anda disertakan
     "./feedback.html",
     './src/**/*.css' 
   ],
