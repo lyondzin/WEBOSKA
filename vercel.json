@@ -1,0 +1,10 @@
+{
+    "builds": [
+      {
+        "src": "src/input.css",
+        "use": "@vercel/static-build"
+      }
+    ],
+    "outputDirectory": "dist"
+  }
+  
