@@ -3,6 +3,7 @@ module.exports = {
   content: [
     "./OSKA.html", // Pastikan file HTML Anda disertakan
     "./feedback.html",
+    './src/**/*.css' 
   ],
   theme: {
     extend: {
