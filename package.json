@@ -4,7 +4,7 @@
   "description": "Proyek sederhana menggunakan Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "build": tailwindcss  build --output public"npx tailwindcss build -i src/input.css -o dist/output.css"
   },
   "keywords": [],
   "author": "Your Name",
